@@ -1,3 +1,5 @@
 ## Projeto de estudo.
 
-PROJETO EM CONSTRUÇÃO
+Projeto em Construção.
+
+![calculadora](./assets/print-rocketNews.png)
